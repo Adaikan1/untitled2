@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557653331732",
+    "project_id": "cropbuddyv2",
+    "storage_bucket": "cropbuddyv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557653331732:android:500661504b74486a567c01",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557653331732-kscvoh7b5hurp068p30r93okrrhkqtcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled2",
+            "certificate_hash": "36c52d1bc2e4b8c83c60353bb15f545f141b1684"
+          }
+        },
+        {
+          "client_id": "557653331732-b5tdd9qe1rocek8cq2a2h99umf9mvr8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrBf14jr1YwmEf5-vFNhDH7dl18PhSg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557653331732-b5tdd9qe1rocek8cq2a2h99umf9mvr8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
